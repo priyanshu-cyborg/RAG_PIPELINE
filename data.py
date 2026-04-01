@@ -3,5 +3,5 @@ documents = [
     "RAG combines information retrieval with text generation.",
     "Embeddings convert text into numerical vectors.",
     "FAISS is a vector database used for similarity search.",
-    "Transformers use attention mechanisms to understand context."
+    "Transformers use attention mechanisms to understand context.."
     ]
