@@ -1,6 +1,6 @@
 from rag_pipeline import generate_answer
 while True : 
-    query = input("\n Ask a question (or type exit.) : ")
+    query = input("\n Ask a Question (or type exit.) : ")
     if query.lower()=="exit":
         break
 
